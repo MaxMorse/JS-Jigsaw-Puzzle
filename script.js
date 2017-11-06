@@ -1,1 +1,1 @@
-console.log("Welcome New Galaxy");
+console.log(5 + 6);
